@@ -1,0 +1,10 @@
+D:\учеба\прога\hw4.3\hw4.3\bin\Debug\hw4.3.exe.config
+D:\учеба\прога\hw4.3\hw4.3\bin\Debug\hw4.3.exe
+D:\учеба\прога\hw4.3\hw4.3\bin\Debug\hw4.3.pdb
+D:\учеба\прога\hw4.3\hw4.3\obj\Debug\hw4.3.csprojAssemblyReference.cache
+D:\учеба\прога\hw4.3\hw4.3\obj\Debug\hw4._3.Form1.resources
+D:\учеба\прога\hw4.3\hw4.3\obj\Debug\hw4._3.Properties.Resources.resources
+D:\учеба\прога\hw4.3\hw4.3\obj\Debug\hw4.3.csproj.GenerateResource.cache
+D:\учеба\прога\hw4.3\hw4.3\obj\Debug\hw4.3.csproj.CoreCompileInputs.cache
+D:\учеба\прога\hw4.3\hw4.3\obj\Debug\hw4.3.exe
+D:\учеба\прога\hw4.3\hw4.3\obj\Debug\hw4.3.pdb
